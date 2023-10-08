@@ -4,9 +4,7 @@ Hello! This Solidity program is a simple contract that demonstrates a basic mint
 
 ## Description
 
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a single function that returns the string "Hello World!". This program serves as a simple and straightforward introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
-
-This program shows a simple contract written in Solidity, a programming language that is used for developing smart contracts on the Etherium blockchain. It's easy to use and fun! The contract has a few variables declared for storing the token name, token abbreviation, and the total supply. It also has a mapping variable which maps an address with a uint which is a balance of the user. The contract has 2 functionalities which are "mint" for adding value in the balance and "burn" for subtracting value in the balance as well. 
+This program shows a simple contract written in Solidity, a programming language that is used for developing smart contracts on the Etherium blockchain. It's easy to use and fun! The contract has a few variables declared for storing the token name, token abbreviation, and the total supply. It also has a mapping variable which maps an address with a uint which is a balance of the user. The contract has 2 functionalities which are "mint" for adding value in the balance and "burn" for subtracting value in the balance as well. This contract paves the way to getting better in programming in Solidity.
 
 ## Getting Started
 
