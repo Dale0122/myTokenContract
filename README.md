@@ -1,4 +1,4 @@
-# Hello World
+# Your First Token
 
 Hello! This Solidity program is a simple contract that demonstrates a basic minting and burning functionality using the Solidity programming language. The purpose of this program is to show what I have learned from Metacrafters.io and is made to submit as a project.
 
